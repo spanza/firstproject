@@ -6,8 +6,8 @@ import re
 if __name__ == '__main__':
     urlLogin = 'http://www.facebook.com/login.php'
 
-    id    = 'tiffanymorethanyou@gmail.com'
-    passw = 'chunky1'
+    id    = 'id'
+    passw = 'pass'
 
     fieldId   = 'email'
     fieldPass = 'pass'
